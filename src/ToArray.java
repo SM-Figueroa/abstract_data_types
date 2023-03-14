@@ -1,0 +1,3 @@
+interface ToArray {
+    Object[] toArray();
+}
